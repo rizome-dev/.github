@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <p>We are a non-profit research laboratory</p>
+  <p>we are a non-profit research laboratory</p>
   <p>exploring how complex intelligence emerges</p>
   <p>from simple, interconnected systems</p>
   <br>
@@ -20,8 +20,12 @@
 </div>
 
 <div align="center">
-  <h3>Our Focus</h3>
-  <p>Multi-agent systems · Quantum evolutionary computation · Emergent intelligence</p>
+  <h3>our focus</h3>
+    <ul>
+      <li>multi-agent systems</li>
+      <li>quantum evolutionary computation</li>
+      <li>emergent intelligence</li>
+    </ul>
   <br>
   <br>
 </div>
