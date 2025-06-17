@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <p>we are a non-profit research laboratory</p>
+  <p>we are a for-profit research laboratory</p>
   <p>exploring how complex intelligence emerges</p>
   <p>from simple, interconnected systems</p>
   <br>
