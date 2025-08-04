@@ -1,4 +1,6 @@
 <div align="center">
+  <p>building Agentic Development Swarms ...</p>
+  <br>
   <a href="mailto://hi@rizome.dev">hi (at) rizome.dev</a>
   <br>
   <br>
